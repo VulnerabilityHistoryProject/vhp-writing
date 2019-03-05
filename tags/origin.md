@@ -1,1 +1,1 @@
-This vulnerability was introduced in the first few months of the project
+This vulnerability was introduced at the beginning of the project.
