@@ -6,7 +6,7 @@ blurb: |
   discovering bugs automatically. Fuzz testing programs will look for
   weaknesses by intelligently generating random inputs and executing
   the system repeatedly on those inputs.
-  
+  <br>  
   While quite useful for finding hard-to-reach bugs, fuzzing is only
   effective for finding certain kinds of vulnerabilities. See what kinds
   of vulnerabilities are found by fuzzers.
