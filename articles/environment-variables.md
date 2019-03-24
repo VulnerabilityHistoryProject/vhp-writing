@@ -7,10 +7,11 @@ blurb: |
   for side-loading in malicious code, build file problems, and various
   other effects.
   
-  Treat data from environment variables with respect. Learn more and
-  see examples of vulnerabilities that involve environment variables.
+  Treat data from environment variables with respect. [Learn more and
+  see examples of vulnerabilities that involve environment variables.](/tags/environment)
 cves:
 tags:
+  - environment
 filepaths:
 ---
 

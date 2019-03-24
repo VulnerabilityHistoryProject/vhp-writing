@@ -6,6 +6,7 @@ blurb: |
   
   [Learn more about the history of this vulnerability.](/cves/CVE-2015-1296)
 cves:
+  - CVE-2015-1296
 tags:
 filepaths:
 ---
