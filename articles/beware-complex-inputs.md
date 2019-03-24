@@ -8,7 +8,7 @@ blurb: |
   Embedded fonts, URLs, video media, vector graphics, query strings,
   custom protocols, and raster graphics are just a few examples of
   deceptively complex inputs that have led to vulnerabilities.
-  <br>
+
   Don't just think about code complexity, think about input complexity.
   [See some examples here.](/tags/complex inputs)
 cves:
