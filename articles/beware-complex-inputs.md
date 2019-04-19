@@ -5,7 +5,7 @@ blurb: |
   Don't just think about code complexity, think about input complexity.
 cves:
 tags:
-  - complex inputs
+  - complex-inputs
 filepaths:
 ---
 Computers only understand numbers, so the ways in which we translate our inputs are quite elaborate.
