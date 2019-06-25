@@ -1,6 +1,6 @@
 ---
 title: Will this happen again?
-art: broken.jpg
+art: broken
 blurb: |
   Regressions happen. Code breaks over time. Automated testing, such as
   unit testing, can pay enormous dividends in preventing future regressions down the road.

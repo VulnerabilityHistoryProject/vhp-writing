@@ -1,6 +1,6 @@
 ---
 title: Beware of complex inputs
-art: snowflake.jpg
+art: snowflake
 blurb: |
   Don't just think about code complexity, think about input complexity.
 cves:

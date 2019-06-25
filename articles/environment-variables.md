@@ -1,6 +1,6 @@
 ---
 title: Be careful with environment variables
-art: eroded.jpg
+art: eroded
 blurb: |
   Environment variables are great features for custom configuration...
   when handled properly. When gone wrong, environment variables allow
