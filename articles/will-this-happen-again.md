@@ -10,7 +10,7 @@ blurb: |
   a lower quality.
 
   Many vulnerabilities sit in places where no automated unit tests
-  could be found. See some examples at [Lesson: Lacked Test](/tags/lacked).
+  could be found. See some examples at [Lesson: Lacked Test](/tags/lacked-test).
 cves:
 tags:
   - lacked-test
