@@ -7,4 +7,13 @@ developers, any issues the code has had historically, and the coding
 style. Thus, the first commit any developer makes is risky.
 
 Furthermore, research has shown a strong correlation between code that
-had many developers and code with vulnerabilities. 
+had many developers and code with vulnerabilities.
+
+Write about diffusion of responsibility.
+
+Provide a few paragraphs and references about how having multiple
+developers work on a piece of code increases its liklihood of having a
+vulnerability.
+
+Note that we used 10 as an arbitrary threshold, but it's really more of
+a spectrum.
