@@ -10,4 +10,3 @@ tags:
   - dependency
 filepaths:
 ---
-PUT FULLTEXT HERE

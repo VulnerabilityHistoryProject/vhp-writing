@@ -12,4 +12,3 @@ tags:
   - cwe-190
 filepaths:
 ---
-PUT FULLTEXT HERE

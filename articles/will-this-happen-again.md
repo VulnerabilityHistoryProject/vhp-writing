@@ -16,4 +16,3 @@ tags:
   - lacked-test
 filepaths:
 ---
-PUT FULLTEXT HERE

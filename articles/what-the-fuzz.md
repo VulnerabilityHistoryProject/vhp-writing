@@ -14,4 +14,3 @@ cves:
 tags:
 filepaths:
 ---
-PUT FULLTEXT HERE

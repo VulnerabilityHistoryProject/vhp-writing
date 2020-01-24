@@ -10,4 +10,3 @@ tags:
   - bounty
 filepaths:
 ---
-PUT FULLTEXT HERE
