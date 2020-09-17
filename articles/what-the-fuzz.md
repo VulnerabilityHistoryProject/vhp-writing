@@ -1,5 +1,6 @@
 ---
 title: What the fuzz?
+author: Andy Meneely
 art: fuzz
 blurb: |
   Random testing, also called fuzzing, is a widely-used technique for

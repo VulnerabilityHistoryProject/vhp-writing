@@ -1,5 +1,6 @@
 ---
 title: Will this happen again?
+author: Andy Meneely
 art: broken
 blurb: |
   Regressions happen. Code breaks over time. Automated testing, such as

@@ -1,5 +1,6 @@
 ---
 title: Silent Killers
+author: Andy Meneely
 art: silent
 blurb: |
   Fool me once, shame on me. Fool me never and take my stuff? That's just unfair.

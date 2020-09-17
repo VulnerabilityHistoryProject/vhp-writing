@@ -1,5 +1,6 @@
 ---
 title: Bad things happen when integers wrap around
+author: Andy Meneely
 art: rollercoaster
 blurb: |
   Loop counters, file sizes, malloc arguments, session tokens, primary

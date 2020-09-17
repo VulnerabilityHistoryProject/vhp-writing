@@ -1,5 +1,6 @@
 ---
 title: Beware of complex inputs
+author: Andy Meneely
 art: snowflake
 blurb: |
   Don't just think about code complexity, think about *input* complexity.
