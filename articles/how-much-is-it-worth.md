@@ -1,5 +1,6 @@
 ---
 title: How much is it worth to you?
+author: Andy Meneely
 art: money
 blurb: |
   Bounty awards are when the development team awards a user for reporting a vulnerability. The more severe the problem, the bigger the reward.

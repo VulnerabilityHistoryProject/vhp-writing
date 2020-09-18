@@ -1,5 +1,6 @@
 ---
 title: Article about RIT
+author: Andy Meneely
 art: rollercoaster
 blurb: |
   Blurb goes here.

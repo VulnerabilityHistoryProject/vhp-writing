@@ -1,5 +1,6 @@
 ---
 title: Be careful with environment variables
+author: Andy Meneely
 art: eroded
 blurb: |
   Environment variables are great features for custom configuration...
