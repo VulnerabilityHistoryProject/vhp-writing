@@ -13,3 +13,5 @@ Here was the commit message.
 </blockquote>
 
 [Learn more about this commit](/commits/:commit_hash:)
+
+[Learn more about vulnerability-contributing commits.](/articles/vccs.md)
