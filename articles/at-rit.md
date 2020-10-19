@@ -1,6 +1,6 @@
 ---
-author: Andy Meneely
 title: Rochester Institute of Technology
+author: Andy Meneely
 art: rit
 blurb: |
   This project was founded at Rochester Insititute of Technology.
