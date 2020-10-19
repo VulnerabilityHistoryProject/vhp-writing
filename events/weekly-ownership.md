@@ -1,2 +1,6 @@
-On the week of :nice_date:, changes were made to an
-OWNERS file related to the vulnerable code. This indicates a change in team structure.
+On the week starting :nice_date:, an `OWNERS` file changed related to the vulnerable code. 
+
+This indicates a potential change in team structure and responsibilities.
+
+
+

@@ -1,11 +1,9 @@
 Our curators found that this vulnerability was fixed by this commit.
 
-This fix commit had:
+The commit had :notes~churn: lines changed.
 
   * :notes~insertions: insertions, and
   * :notes~deletions: deletions
-
-Thus it had a total raw churn of :notes~churn:.
 
 Here was the commit message.
 <blockquote>

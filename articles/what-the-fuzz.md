@@ -13,6 +13,7 @@ blurb: |
   of vulnerabilities are found by fuzzers.
 cves:
 tags:
+- automated
 filepaths:
 ---
 PUT FULLTEXT HERE
