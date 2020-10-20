@@ -10,7 +10,7 @@ cves:
 tags:
 filepaths:
 ---
-At Rochester Institute of Technology we take cybersecurity very seriously. We believe that everyone needs to learn about security, not just security experts. 
+At Rochester Institute of Technology we take cybersecurity very seriously. We believe that everyone needs to learn about security, not just the experts. 
 
 That's why in the [**Department of Software Engineering**](https://www.se.rit.edu) we require every student to take our [_Engineering Secure Software_](https://www.se.rit.edu/~swen-331) course. In this course, we explore a myriad of engineering mistakes that lead to vulnerabilities. Every year, around 120 students take this course. The Vulnerability History Project is a two-way street with the classroom: what we learn in the classroom shows up here, and vice versa.
 
