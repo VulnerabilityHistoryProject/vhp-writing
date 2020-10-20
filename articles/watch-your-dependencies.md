@@ -7,6 +7,7 @@ blurb: |
 
   Learn more by example on vulnerabilities tagged with [DEPS file changed.](/tags/DEPS)
 cves:
+draft: true
 tags:
   - dependency
 filepaths:

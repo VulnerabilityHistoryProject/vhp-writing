@@ -10,9 +10,10 @@ blurb: |
 
   Treat data from environment variables with respect. Learn more and
   see examples of [:tag: vulnerabilities that involve environment variables.](/tags/environment)
+draft: true
 cves:
 tags:
   - environment
 filepaths:
 ---
-PUT FULLTEXT HERE
+

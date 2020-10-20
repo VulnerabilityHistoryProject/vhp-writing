@@ -11,6 +11,7 @@ blurb: |
   While quite useful for finding hard-to-reach bugs, fuzzing is only
   effective for finding certain kinds of vulnerabilities. See what kinds
   of vulnerabilities are found by fuzzers.
+draft: true
 cves:
 tags:
 - discover-automated

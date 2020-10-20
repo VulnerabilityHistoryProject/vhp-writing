@@ -5,16 +5,15 @@ art: refactor
 blurb: |
   You can't secure it if you can't maintain it.
 
-  Refactoring is the practice of improving the maintainability of the code 
+  **Refactoring** is the practice of improving the maintainability of the code 
   without changing its functionality. Problems can occur when refactoring is ignored for long periods of time. 
 
   Refactoring is an active area of software engineering research.
-
 cves:
 tags:
 filepaths:
 ---
-You can't secure it if you can't maintain it.
+_You can't secure it if you can't maintain it._
 
 A widespread practice, refactoring is useful for improving your code's **maintainability**. If you are changing the code without changing what it _does_, you are refactoring. Simple refactorings include:
 

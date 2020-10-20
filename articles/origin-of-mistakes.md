@@ -7,6 +7,7 @@ blurb: |
 
   Let's explore what it means for vulnerabilities to be introduced when the project started. How often does that happen?
 cves:
+draft: true
 tags:
   - origin
 filepaths:
