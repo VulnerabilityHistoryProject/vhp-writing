@@ -12,7 +12,6 @@ blurb: |
 
 cves:
 tags:
-  - 
 filepaths:
 ---
 You can't secure it if you can't maintain it.
