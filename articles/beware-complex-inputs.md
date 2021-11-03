@@ -14,7 +14,7 @@ cves:
 tags:
   - complex-inputs
   - least-privilege
-  - defense-in-depth
+  - defense
 filepaths:
 ---
 
