@@ -1,3 +1,5 @@
+Were there more than 10 different developers who worked on the vulnerable code in its lifetime?
+
 Familiarity is difficult to gain with code. Even for the best
 developers, contributing to a piece of source code for the first time
 means that they must understand the design decisions from previous

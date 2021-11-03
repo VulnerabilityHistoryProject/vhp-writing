@@ -1,4 +1,4 @@
-Was there any part of the fix that involved one person vouching for another's work?
+Did the fix involve anyone vouching for another person's work?
 
 This can include:
 * signing off on a commit message
