@@ -1,3 +1,5 @@
+Was a bounty awarded for reporting this vulnerability?
+
 We define a bounty as a monetary award given by the development team to a researcher who discovered a vulnerability. Bounties garner a wide variety of monetary rewards, depending on a variety of factors. The severity of the vulnerablity at the time of its discovery is a main driver [1,3], however.
 
 Bounties also create an interesting economy that competes with the black-hat economy of a vulnerability [2]. Knowledge of a vulnerability can be very profitable for attackers. So software companies will defray this cost by giving out bounties. Thus, bounty awards are inextricably linked to their black market value.
